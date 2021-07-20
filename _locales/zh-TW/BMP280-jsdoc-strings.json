@@ -1,0 +1,9 @@
+{
+  "BMP280": "BMP280 block",
+  "BMP280.Address": "設定I2C地址",
+  "BMP280.PowerOff": "關閉",
+  "BMP280.PowerOn": "啟動",
+  "BMP280.pressure": "測量氣壓",
+  "BMP280.temperature": "測量氣溫",
+  "BMP280_I2C_ADDRESS": "氣壓測量模塊 BMP280 Microbit makecode擴充.\nFrom microbit/micropython Chinese community.\nhttp://www.micropython.org.cn"
+}

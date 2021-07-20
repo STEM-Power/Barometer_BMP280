@@ -1,0 +1,11 @@
+{
+  "BMP280.Address|block": "設定I2C地址為 %addr",
+  "BMP280.PowerOff|block": "關閉",
+  "BMP280.PowerOn|block": "啟動",
+  "BMP280.pressure|block": "測量氣壓",
+  "BMP280.temperature|block": "測量氣溫",
+  "BMP280_I2C_ADDRESS.ADDR_0x76|block": "0x76",
+  "BMP280_I2C_ADDRESS.ADDR_0x77|block": "0x77",
+  "BMP280|block": "BMP280",
+  "{id:category}BMP280": "BMP280"
+}
