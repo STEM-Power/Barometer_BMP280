@@ -4,7 +4,8 @@
     "description": "makecode BMP280 Digital Pressure Sensor Package for micro:bit",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "microphone": "*"
     },
     "files": [
         "README.md",
@@ -15,5 +16,13 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true
+    "public": true,
+    "targetVersions": {
+        "target": "4.0.9",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
 }
